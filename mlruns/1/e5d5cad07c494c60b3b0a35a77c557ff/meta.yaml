@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/e5d5cad07c494c60b3b0a35a77c557ff/artifacts
+end_time: 1688376922309
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e5d5cad07c494c60b3b0a35a77c557ff
+run_uuid: e5d5cad07c494c60b3b0a35a77c557ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688376919871
+status: 3
+tags: []
+user_id: vishwa
